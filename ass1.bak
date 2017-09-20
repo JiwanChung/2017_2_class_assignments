@@ -1,0 +1,12 @@
+program ass1;
+
+uses Sysutils;
+
+const
+ C_FNAME = 'input.txt'
+
+
+
+BEGIN
+END.
+
